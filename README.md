@@ -9,5 +9,5 @@ Don't use this tols to criminal !
 <p>cd spamgmail</p>
 <p>python gmail.py</p>
 
-* Coded by achmad sofyan h 
+* Coded by Achmad Sofyan H 
 * CP : 089686527295 
